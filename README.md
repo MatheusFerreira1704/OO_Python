@@ -1,4 +1,4 @@
-# Repositório com o resultado do códugo do curso de introdução a Orientação a Objetos em Python.
+# Repositório com o resultado do código do curso de introdução a Orientação a Objetos em Python.
 
 Nesse curso foi aprendindo os principais conceitos de sintaxe.
 
